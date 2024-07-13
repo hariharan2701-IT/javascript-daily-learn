@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Number Display</title>
+<style>
+    .number-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .number {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px;
+        font-weight: bold;
+    }
+    .even {
+        background-color: lightgreen;
+    }
+    .odd {
+        background-color: rgb(135, 228, 28);
+    }
+    .prime {
+        background-color: rgb(235, 61, 61);
+    }
+</style>
+</head>
+<body>
+    <div id="numberContainer" class="number-container"></div>
+    <script src="script.js"></script>
+</body>
+</html>
