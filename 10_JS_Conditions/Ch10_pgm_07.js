@@ -157,8 +157,9 @@ var getQuiz = function () {
     };
   };
   
-  var quiz = getQuiz();
+  // var quiz = getQuiz();
   
+
   
   /* Further Adventures
    *
