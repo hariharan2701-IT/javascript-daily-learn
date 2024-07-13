@@ -91,5 +91,4 @@ var getTotalBillObjects = function (itemsArray) {
 
     return total;
 };
-
 console.log("Total cost using objects array is $" + getTotalBillObjects(items));

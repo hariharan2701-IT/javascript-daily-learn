@@ -22,7 +22,6 @@ console.log(nextYear);
  *
  */
 
-
 // Using existing objects in an array
 var place1 = { name : "The Pyramids", country : "Egypt" };
 var place2 = { name : "The Grand Canyon", country : "USA" };

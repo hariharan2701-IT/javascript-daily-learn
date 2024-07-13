@@ -23,7 +23,6 @@ console.log(names);
  * 4) Log akaScores to the console.
  *
  */
-
 // Creating arrays
 var scores;
 var names;

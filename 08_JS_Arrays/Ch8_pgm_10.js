@@ -48,7 +48,6 @@ var showInfo = function (rectangle) {
   console.log("Area: " + rectangle.area);
   console.log("---");
 };
-
 // Assign area to each rectangle and display info
 rectangles.forEach(function (rectangle) {
   assignArea(rectangle);

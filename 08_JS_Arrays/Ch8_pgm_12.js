@@ -94,7 +94,6 @@ questions.forEach(function (question, index) {
   displayQuestion(question);
   console.log(""); // Adding a blank line for clarity between questions
 });
-
 // Example of executing a command at the prompt to display a particular question
 // Type the following command in the console:
 // displayQuestion(questions[1]);

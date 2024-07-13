@@ -50,7 +50,6 @@ console.log(items.join(" and "));
 
 // Push another item onto the array
 items.push("The Taj Mahal");
-
 console.log(items.join(" and ")); // Log the joined items
 
 // Set one of the items using square brackets

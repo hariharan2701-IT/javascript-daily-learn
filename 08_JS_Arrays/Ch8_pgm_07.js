@@ -56,7 +56,6 @@ showInfo = function (itemToShow) {
 };
 
 items.forEach(showInfo);
-
 // Function to find the total number of letters in the items array
 var totalLetters = function (arr) {
     var total = 0;

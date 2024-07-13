@@ -45,7 +45,6 @@ console.log("The fifth score is " + scores[4]);
 
 // Log the value of the last element to the console
 console.log("The last score is " + scores[scores.length - 1]);
-
 // Add an extra score to the array
 scores.push(7);
 
