@@ -79,7 +79,6 @@ planet1.addMoon("Europa");
 planet1.showPlanet();
 
 // Further Adventures
-
 // 1) Create a second planet
 var planet2 = new Planet("Earth", 3, "Terrestrial");
 

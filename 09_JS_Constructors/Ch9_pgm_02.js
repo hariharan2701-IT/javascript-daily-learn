@@ -73,6 +73,5 @@ var planet2 = buildPlanet(
     4,
     "Terrestrial"
 );
-
 // 2) Call the showPlanet method on your new planet
 planet2.showPlanet();

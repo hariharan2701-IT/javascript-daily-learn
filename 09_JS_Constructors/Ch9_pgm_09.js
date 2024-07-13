@@ -179,7 +179,7 @@ var spacer = {
   player1.showInfo("=");
   
   
-  
+
   /* Further Adventures
    *
    * 1) Test out the constructor by

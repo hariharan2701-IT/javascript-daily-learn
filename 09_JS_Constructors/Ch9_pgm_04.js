@@ -63,7 +63,6 @@ var displayPlanets = function (planetsArray) {
         }
     });
 };
-
 // Display all planets in the array
 displayPlanets(planets);
 

@@ -107,6 +107,5 @@ question3.addOption("Southern Ocean");
 
 // Display question2 at the console prompt
 // Type 'question2.showQuestion();' and press Enter
-
 // Display answer for question2 at the console prompt
 // Type 'question2.answer;' and press Enter

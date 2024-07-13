@@ -49,7 +49,7 @@ var planet1 = buildPlanet(
     "Gas Giant"
 );
 
-// Log properties of the first planet
+//Log properties of the first planet
 console.log(planet1.name);
 console.log(planet1.position);
 console.log(planet1.type);

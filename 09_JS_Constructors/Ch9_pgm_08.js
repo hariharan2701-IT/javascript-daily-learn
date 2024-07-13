@@ -19,7 +19,6 @@ var CalendarEvent = function (title, startDate, startTime, endTime) {
         console.log(dateString);
     };
 };
-
 var calEvent = new CalendarEvent(
     "Annual Review",
     "3/5/16",

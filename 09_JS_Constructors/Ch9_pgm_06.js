@@ -115,4 +115,3 @@ planet3.addMoon("Mercury Moon"); // Additional moon for planet3
 console.log("Getting moon at index 1 from planet1:");
 console.log(planet1.getMoon(1)); // Should output "Europa"
 
-
